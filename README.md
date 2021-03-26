@@ -1,8 +1,8 @@
-# Rocket-Game-3D
+# Rocket Game 3D
 
 My first 3D game try in Unity.
 
-A game with 3 dimensional platformer elements. The aim of the game is to direct the rocket at the proper speed and properly to reach the target without hitting the landing ramp. It consists of 4 short levels.
+A game with 3 dimensional platformer elements. The aim of the game is to direct the rocket at the proper speed and properly reach the target without crashing the landing ramp. It consists of 4 short levels.
 
 The keys used in the game are A and D to direct left and right, and to give gas to the rocket with the SPACE button.
 
